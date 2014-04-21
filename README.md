@@ -1,15 +1,11 @@
 Node Project Template
 ---------------------
 
-Because sometimes<br>
+Paste this in your terminal and get to work!<br>
 ```bash
 git clone git@github.com:kylobite/Node-Project-Template.git
-```
-is more convenient than<br>
-```bash
-npm init
-<editor> package.json
-npm init
+mv Node-Project-Template/* ./
+rm -rf Node-Project-Template/
 ```
 ***
-&copy; Copyright 2013 Kylobite under [WTFPL](LICENSE).
+&copy; Copyright 2013-4 Kylobite under [WTFPL](LICENSE).
