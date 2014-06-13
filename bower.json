@@ -1,0 +1,11 @@
+{
+    "name": "kylobite-template",
+    "version": "1.0.0",
+    "dependencies": {
+        "bootstrap": null,
+        "jquery": null,
+        "backbone": null,
+        "underscore": null,
+        "requirejs": null
+    }
+}
